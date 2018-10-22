@@ -2,7 +2,7 @@
 
 Demo CRUD api developed as part of udemy course: https://www.udemy.com/rest-api-flask-and-python
 
-##End Points as follows:
+## End Points as follows:
 
 
 GET /items
